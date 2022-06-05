@@ -1,0 +1,36 @@
+.fondo{
+    background-image: url(img/ba1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 700px;
+}
+.margen{
+    padding-top: 300px;
+}
+.opac{
+    background-color: rgba(0, 0, 0, 0.5);  
+    position: absolute;
+    background-size: cover;
+    min-height: 700px
+}
+.texto{
+    position: relative;
+    z-index: 2;
+}
+.altura{
+    height: 100%;
+}
+.decoration{
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+.alt{
+    font-size:12px;
+}
+.button_form{
+    background-color: #8FCF42;
+}
+footer{
+    background: linear-gradient(to right,#072D42, #0F638F);
+}
